@@ -1,0 +1,8 @@
+.slider img {
+    filter: brightness(60%);
+}
+
+.synergetic-btn-primary {
+    background-color: #289BDE;
+    color: white;
+}
