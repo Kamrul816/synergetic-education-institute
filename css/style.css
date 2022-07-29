@@ -11,9 +11,12 @@
     .small-device {
         display: flex;
         flex-direction: column;
+        justify-items: center;
+    }
+    
+    .small-device h5 {
+        margin-top: 20px;
+        text-align: center;
     }
 }
 
-.small-device h5 {
-    margin-top: 20px;
-}
