@@ -6,3 +6,14 @@
     background-color: #289BDE;
     color: white;
 }
+
+@media screen and (max-width: 576px) {
+    .small-device {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.small-device h5 {
+    margin-top: 20px;
+}
